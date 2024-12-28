@@ -19,4 +19,4 @@ In the end, any encrypted file is simply in a lang that you do not know yet, and
 
 The ultimate encrypted message (proven unbreakable beyond theory) is one that was never meant to be decrypted to anything discernable. In other words... a fake encrypted message keeps your foe busy while they try to solve an impossible cypher.
 
-In closing, if you wasted your time reading all of this, you really need a hobby or something (lol) .
+In closing, if you wasted your time reading all of this, you really need a hobby or something .
