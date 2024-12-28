@@ -6,4 +6,4 @@ Encryption itself is a simple file operation that 5th grade school children can 
 
 This repo is just screwing around with xor encryption and deteministic key making. A deterministic key that is encrypted using another deterministic key would take quantum ai robots about 5 more seconds to decrypt, but its not a bad idea. It is a mix of being user friendly, not having to store keys, and data integrity. If it buys you 5 seconds and it took 1 second to implement- that is still a net gain of 4 secs, dammit! (lol) 
 
-All Encryption is rather crude. Future versions might make it impossible except for a single user to decrypt just by looking at it- but that is far away. For now, encryption is in the stone ages. 
+All Encryption is rather crude. Future versions might make it impossible except for a single user to decrypt just by looking at it- but that is far away. For now, encryption is in the stone ages. For the human brain, something as stupid as a Caesar cipher can stump most people. To encrypt info from ai, it will take more than that. 
