@@ -7,6 +7,13 @@ Then read read1.html from a browser.
 
 Then look over the old readme for this app- below on this page. 
 
+Then research the typical issues with plain xor encryption, how it is
+easily decrypted. 
+
+
+Then put it all together, and realize that this app is quite interesting and starts to solve some things- it makes encryption
+much easier. 
+
 
 
 
