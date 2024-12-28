@@ -5,6 +5,8 @@ The new updates are in read.html , view that file from a browser.
 
 Then read read1.html from a browser. 
 
+Then look over the old readme for this app- below on this page. 
+
 
 
 
