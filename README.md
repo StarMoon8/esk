@@ -1,6 +1,8 @@
 
 
 
+This repo will accept any fresh takes/ideas that are creative in terms of encryption. Must be in rust, have a very small codebase, and be different than the zillions of already established practices. Do YOU have what it takes to make something creative with encryption? (if you do not know how to code in rust just have ai write your code for you). 
+
 This repo is just screwing around with xor encryption and deteministic key making and some other encryption basics. A deterministic key that is encrypted using another deterministic key would take quantum ai robots about 5 more seconds to decrypt, but its not a bad idea. It is a mix of being user friendly, not having to store keys, and data integrity. If it buys you 5 seconds and it took 1 second to implement- that is still a net gain of 4 secs, dammit! (lol)
 
 
