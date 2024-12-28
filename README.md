@@ -6,7 +6,7 @@ This repo is just screwing around with xor encryption and deteministic key makin
 
 AES either was or will be cracked (in less than 1 minute)- that is for sure. To make aes post-quantum safe- i say why take chances? Do a round of AES with a somewhat proven aes tool like https://github.com/str4d/rage . Then use the otp (one time pad) method over the encrypted file. As such, your file should be quite quantum safe, and hella tough for quantum Ai to decrypt. (unless you are on windows or are connected to the internet-, in which case any key you use is known, any passwords you use are also known... and trying to encrypt anything is just silly. lol)
 
-The OTP method is simple and the best (uncrackable in theory) method known, but it is extremely tough to practice in real life. Any slip up like using the key twice diminishes the superior quality of the true otp method.
+The OTP method is simple and the best (uncrackable in theory) method known, but it is extremely tough to practice in real life. Any slip up like using the key twice diminishes the superior quality of the true otp method. The OTP algo itself is extremely simple, the practicality of properly implementing the otp method is not user friendly or easy. 
 
 Encryption itself is a simple file operation that 5th grade school children can understand. The tough part is encrypting things that can not be decrypted by anyone else. That is where the PhD level thinking is required.
 
