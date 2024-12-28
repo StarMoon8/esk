@@ -1,3 +1,21 @@
+# xor3 
+
+The new updates are in read.html , view that file from a browser. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is the old version of the readme for this before it was improved. 
+
 # Secure XOR Encryption Tool version 001
 
 This project is a Rust-based encryption and decryption tool that implements a secure version of XOR encryption. It is designed to approximate a One-Time Pad (OTP) while mitigating the typical vulnerabilities associated with basic XOR encryption. The tool works with raw binary data, making it suitable for encrypting and decrypting any type of file.
