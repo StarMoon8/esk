@@ -1,0 +1,21 @@
+[package]
+name = "aotp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zeroize = "1.8.1"
+memsec = "0.7.0"
+rayon = "1.10.0"
+indicatif = "0.17.8"
+sysinfo = "0.32.0"
+log = "0.4.22"
+env_logger = "0.11.5"
+clap = { version = "4.1.6", features = ["derive"] }
+
+[profile.release]
+debug = true
+lto = true
+codegen-units = 1
+panic = "abort"
+opt-level = 3
