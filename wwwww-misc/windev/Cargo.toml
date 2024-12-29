@@ -1,0 +1,8 @@
+[package]
+name = "file_selector_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rfd = "0.9"
+winapi = { version = "0.3", features = ["winuser"] }
